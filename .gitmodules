@@ -5,5 +5,5 @@
 	path = web
 	url = https://github.com/iamfritz/expressjs-basic-crud
 [submodule "expressjs-ts-crud"]
-	path = expressjs-ts-crud
+	path = web_ts
 	url = https://github.com/iamfritz/expressjs-ts-crud.git
