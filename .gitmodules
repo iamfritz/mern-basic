@@ -4,3 +4,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/iamfritz/expressjs-basic-crud
+[submodule "expressjs-ts-crud"]
+	path = expressjs-ts-crud
+	url = https://github.com/iamfritz/expressjs-ts-crud.git
